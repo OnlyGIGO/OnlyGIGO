@@ -34,9 +34,6 @@ animations, notifications, and various other features.
 
 REST API that the GenieGains mobile app uses, stores the user necessary data into the postgresql database.
 
-## GitHub Contributions
-
-![GitHub Contributions](https://ghchart.rshah.org/OnlyGIGO)
 
 ## Top Languages
 
