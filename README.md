@@ -1,5 +1,5 @@
 # $${\color{lightgreen}Vilppu \space Tiilikainen \space Github}$$
-![](https://komarev.com/ghpvc/?username=OnlyGIGO&color=green)
+![](https://komarev.com/ghpvc/?username=OnlyGIGO&color=green&style=for-the-badge)
 
 ![Vilppu Tiilikainen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyGIGO&show_icons=true&theme=dark)
 
