@@ -1,9 +1,9 @@
-# $${\color{lightgreen}Vilppu \space Tiilikainen \space Github}$$
+# ${\color{lightgreen}Vilppu \space Tiilikainen \space Github}$
 ![](https://komarev.com/ghpvc/?username=OnlyGIGO&color=green&style=for-the-badge)
 
 ![Vilppu Tiilikainen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyGIGO&show_icons=true&theme=dark)
 
-## $${\color{lightgreen}About \space Me}$$
+## ${\color{lightgreen}About \space Me}$
 
 Hey there! I'm Vilppu Tiilikainen, a 2nd year software engineer student from Finland. Currently studying in Metropolia University of Applied Sciences. I love diving deep into coding challenges, exploring new technologies, and building interesting and educational projects.
 ## $${\color{lightgreen}Skills}$$
@@ -47,11 +47,11 @@ animations, notifications, and various other features.
 REST API that the GenieGains mobile app uses, stores the user necessary data into the postgresql database.
 
 
-## $${\color{lightgreen}Top \space Languages:}$$
+## ${\color{lightgreen}Top \space Languages:}$
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyGIGO&layout=compact&theme=dark)
 
-## $${\color{lightgreen}Connect \space With \space Me:}$$
+## ${\color{lightgreen}Connect \space With \space Me:}$
 
 Feel free to reach out and connect with me on:
 
