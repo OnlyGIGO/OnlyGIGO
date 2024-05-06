@@ -1,5 +1,5 @@
 #Vilppu Tiilikainen Github Profile
-[Vilppu Tiilikainen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyGIGO)
+![Vilppu Tiilikainen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyGIGO)
 
 <!--
 **OnlyGIGO/OnlyGIGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
