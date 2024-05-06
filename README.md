@@ -6,7 +6,7 @@
 ## ${\color{lightgreen}About \space Me}$
 
 Hey there! I'm Vilppu Tiilikainen, a 2nd year software engineer student from Finland. Currently studying in Metropolia University of Applied Sciences. I love diving deep into coding challenges, exploring new technologies, and building interesting and educational projects.
-## $${\color{lightgreen}Skills}$$
+## ${\color{lightgreen}Skills}$
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white)
