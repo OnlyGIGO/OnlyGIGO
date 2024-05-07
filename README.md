@@ -56,6 +56,6 @@ REST API that the GenieGains mobile app uses, stores the user necessary data int
 
 Feel free to reach out and connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-ProcessBlue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vilppu-tiilikainen-86a3a8301)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vilppu-tiilikainen-86a3a8301)
 
 Looking for a job!
