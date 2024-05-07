@@ -1,12 +1,12 @@
-# ${\color{lightgreen}Vilppu \space Tiilikainen \space Github}$
-![](https://komarev.com/ghpvc/?username=OnlyGIGO&color=green&style=for-the-badge)
+# ${\color{ProcessBlue}Vilppu \space Tiilikainen \space Github}$
+![](https://komarev.com/ghpvc/?username=OnlyGIGO&color=blue&style=for-the-badge)
 
-![Vilppu Tiilikainen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyGIGO&show_icons=true&theme=dark)
+![Vilppu Tiilikainen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyGIGO&show_icons=true&theme=github_dark)
 
-## ${\color{lightgreen}About \space Me}$
+## ${\color{ProcessBlue}About \space Me}$
 
 Hey there! I'm Vilppu Tiilikainen, a 2nd year software engineer student from Finland. Currently studying in Metropolia University of Applied Sciences. I love diving deep into coding challenges, exploring new technologies, and building interesting and educational projects.
-## ${\color{lightgreen}Skills}$
+## ${\color{ProcessBlue}Skills}$
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ Hey there! I'm Vilppu Tiilikainen, a 2nd year software engineer student from Fin
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) 
 
-## Projects
+## ${\color{ProcessBlue}Projects}$
 
 ### Project 1: [GenieGains Monile UI (React native)](https://github.com/eemelimu/geniegains-mobile-ui)
 
@@ -47,14 +47,15 @@ animations, notifications, and various other features.
 REST API that the GenieGains mobile app uses, stores the user necessary data into the postgresql database.
 
 
-## ${\color{lightgreen}Top \space Languages:}$
+## ${\color{ProcessBlue}Top \space Languages:}$
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyGIGO&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyGIGO&layout=compact&theme=dark)\
+![WakaTime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=onlygigo&layout=compact)
 
-## ${\color{lightgreen}Connect \space With \space Me:}$
+## ${\color{ProcessBlue}Connect \space With \space Me:}$
 
 Feel free to reach out and connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vilppu-tiilikainen-86a3a8301)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-ProcessBlue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vilppu-tiilikainen-86a3a8301)
 
 Looking for a job!
