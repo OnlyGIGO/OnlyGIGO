@@ -52,6 +52,8 @@ REST API that the GenieGains mobile app uses, stores the user necessary data int
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyGIGO&layout=compact&theme=dark)\
 ![WakaTime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=onlygigo&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/018defb6-f5fb-41c6-a00c-9787fb40ed23.svg)](https://wakatime.com/@018defb6-f5fb-41c6-a00c-9787fb40ed23)
+
 ## ${\color{ProcessBlue}Connect \space With \space Me:}$
 
 Feel free to reach out and connect with me on:
