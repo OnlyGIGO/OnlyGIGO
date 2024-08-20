@@ -5,7 +5,7 @@
 
 ## ${\color{ProcessBlue}About \space Me}$
 
-Hey there! I'm Vilppu Tiilikainen, a 2nd year software engineer student from Finland. Currently studying in Metropolia University of Applied Sciences. I love diving deep into coding challenges, exploring new technologies, and building interesting and educational projects.
+Hey there! I'm Vilppu Tiilikainen, a 3rd year software engineer student from Finland. Currently studying in Metropolia University of Applied Sciences. I love diving deep into coding challenges, exploring new technologies, and building interesting and educational projects.
 ## ${\color{ProcessBlue}Skills}$
 
 ### Programming Languages:
