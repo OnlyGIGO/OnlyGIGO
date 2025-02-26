@@ -46,6 +46,10 @@ animations, notifications, and various other features.
 
 REST API that the GenieGains mobile app uses, stores the user necessary data into the postgresql database.
 
+### Project 3: [Java image manipulation tool](https://github.com/OnlyGIGO/Java-Image-manipulation-tool)
+
+Image manipulation tool written in java that allows for rotation and utilises things like interpolation to keep the image quality as good as it can be even with rotations not evenly divisible with 90 degrees. It also utilises my own self written argument parsing.
+
 
 ## ${\color{ProcessBlue}Top \space Languages:}$
 
