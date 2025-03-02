@@ -52,6 +52,8 @@ REST API that the GenieGains mobile app uses, stores the user necessary data int
 
 Image manipulation tool written in java that allows for rotation and utilises things like interpolation to keep the image quality as good as it can be even with rotations not evenly divisible with 90 degrees. It also utilises my own self written argument parsing.
 
+### Project 4: [Python Object Pretty Print Library, Neatipy](https://github.com/OnlyGIGO/Neatipy)
+Modern, easily extendable, performant python object pretty print library with minimum dependencies
 
 ## ${\color{ProcessBlue}Top \space Languages:}$
 
