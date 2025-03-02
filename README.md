@@ -57,7 +57,7 @@ Modern, easily extendable, performant python object pretty print library with mi
 
 ## ${\color{ProcessBlue}Top \space Languages:}$
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyGIGO&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyGIGO&layout=compact&theme=dark&cache_seconds=1800)
 
 ![WakaTime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=OnlyGIGO)
 
