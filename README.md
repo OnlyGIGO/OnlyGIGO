@@ -53,6 +53,7 @@ Hey there! I'm Vilppu Tiilikainen, a 3rd year software engineer student from Fin
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![PowerBi](https://img.shields.io/badge/Power%20Bi-ffca38?style=for-the-badge&logoColor=white)
 
 
 ### **Other Tools & Technologies:**  
