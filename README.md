@@ -62,26 +62,26 @@ Hey there! I'm Vilppu Tiilikainen, a 3rd year software engineer student from Fin
 
 ## ${\color{ProcessBlue}Projects}$
 
-### Project 1: [GenieGains Monile UI (React native)](https://github.com/eemelimu/geniegains-mobile-ui)
+### **Project 1:** [GenieGains Monile UI (React native)](https://github.com/eemelimu/geniegains-mobile-ui)
 
 Gym Monile App where you can add your goals and track their progress, create your own movements, create your own routines, record workouts you have performed as well as share, delete them. The app also has various themes, fully customizable color scheme, language settings, personalised tips based on user's experience level, smooth, performant
 animations, notifications, and various other features.
 
-### Project 2: [GenieGains REST API Backend (Django)](https://github.com/salopietari/geniegains-rest-api)
+### **Project 2:** [GenieGains REST API Backend (Django)](https://github.com/salopietari/geniegains-rest-api)
 
 REST API that the GenieGains mobile app uses, stores the user necessary data into the postgresql database.
 
-### Project 3: [Java image manipulation tool](https://github.com/OnlyGIGO/Java-Image-manipulation-tool)
+### **Project 3:** [Java image manipulation tool](https://github.com/OnlyGIGO/Java-Image-manipulation-tool)
 
 Image manipulation tool written in java that allows for rotation and utilises things like interpolation to keep the image quality as good as it can be even with rotations not evenly divisible with 90 degrees. It also utilises my own self written argument parsing.
 
-### Project 4: [Python Object Pretty Print Library, Neatipy](https://github.com/OnlyGIGO/Neatipy)
+### **Project 4:** [Python Object Pretty Print Library, Neatipy](https://github.com/OnlyGIGO/Neatipy)
 Modern, easily extendable, performant python object pretty print library with minimum dependencies
 
 
 ## ${\color{ProcessBlue}Miscellaneous}$
 
-## ${\color{ProcessBlue}Top \space Languages:}$
+### **Top Languages:**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyGIGO&layout=compact&theme=dark&cache_seconds=1800)
 
@@ -89,7 +89,7 @@ Modern, easily extendable, performant python object pretty print library with mi
 
 [![wakatime](https://wakatime.com/badge/user/018defb6-f5fb-41c6-a00c-9787fb40ed23.svg)](https://wakatime.com/@018defb6-f5fb-41c6-a00c-9787fb40ed23)
 
-## ${\color{ProcessBlue}Connect \space With \space Me:}$
+### **Connect With Me:**
 
 Feel free to reach out and connect with me on:
 
