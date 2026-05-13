@@ -84,9 +84,11 @@ Modern, easily extendable, performant python object pretty print library with mi
 
 ### **Top Languages:**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyGIGO&layout=compact&theme=dark&cache_seconds=1800)
+![Top Languages](https://wakatime.com/share/@onlygigo/a98e63da-4075-427e-939e-a07de3a2d592.svg)
 
-![WakaTime Statistics](https://github-readme-stats.vercel.app/api/wakatime?username=OnlyGIGO)
+
+ 
+
 
 [![wakatime](https://wakatime.com/badge/user/018defb6-f5fb-41c6-a00c-9787fb40ed23.svg)](https://wakatime.com/@018defb6-f5fb-41c6-a00c-9787fb40ed23)
 
